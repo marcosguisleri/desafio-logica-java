@@ -1,6 +1,6 @@
 package logica.exercicios1a20;
 
-public class Exercicios03 {
+public class Exercicio03 {
 
     void main() {
 
