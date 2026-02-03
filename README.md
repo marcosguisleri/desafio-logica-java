@@ -36,12 +36,13 @@ Cada classe representa a solução de um exercício específico.
 ```
 
 ## 🔗 Inspiração
-Este projeto foi inspirado no repositório [desafio-logica-java](https://github.com/eraldocoelho/desafio-logica-java) criado por Eraldo Cunha, adaptado aqui para minha própria jornada de aprendizado.
+Este projeto foi inspirado no repositório [desafio-logica-java](https://github.com/EraldoCunha/desafio-logica-java)
+criado por Eraldo Cunha, adaptado aqui para minha própria jornada de aprendizado.
 
 ## 📅 Progresso
 - [x] Dia 1 – Exercício 01
-- [ ] Dia 2 – Exercício 02
-- [ ] Dia 3 – Exercício 03
+- [X] Dia 2 – Exercício 02
+- [X] Dia 3 – Exercício 03
 - [ ] ...
 - [ ] Dia 123 – Exercício Final
 
