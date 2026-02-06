@@ -4,10 +4,10 @@ public class Exercicio07 {
 
     void main() {
 
-        double valorGastoReais = Double.parseDouble(IO.readln("Informe o valor Gasto R$: "));
-        double precoLitroGasolina = Double.parseDouble(IO.readln("Informe o valor do litro da gasolina R$: "));
+        var precoQuiloRefeicao = 14.0;
+        double PesoPrato = Double.parseDouble(IO.readln("Digite o peso do prato em KG: "));
 
-        System.out.printf("Foi abastecido: %.1f/L", (valorGastoReais / precoLitroGasolina));
+        System.out.printf("O preço a ser pago é: R$ %.2f\n", precoQuiloRefeicao * PesoPrato);
 
     }
 
