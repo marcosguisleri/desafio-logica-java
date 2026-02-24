@@ -4,13 +4,15 @@ public class Exercicio23 {
 
     void main() {
 
-        int idadeEmDias = Integer.parseInt(IO.readln("Informe sua idade em dias: "));
+        int idadeTotalEmDias = Integer.parseInt(IO.readln("Digite sua idade em dias: "));
 
-        int anos = idadeEmDias / 365;
-        int meses = (idadeEmDias % 365) / 30;
-        int dias = (idadeEmDias % 365) % 30;
+        int anos = idadeTotalEmDias / 365;
+        int restoDepoisDosAnos = idadeTotalEmDias % 365;
 
-        IO.println(anos + " ano(s), " + meses + " mes(es) e " + dias + " dia(s)");
+        int meses = restoDepoisDosAnos / 30;
+        int dias = restoDepoisDosAnos % 30;
+
+        IO.println(anos + " ano(s), " + meses + " mes(es), " + dias + " dia(s)");
 
     }
 
