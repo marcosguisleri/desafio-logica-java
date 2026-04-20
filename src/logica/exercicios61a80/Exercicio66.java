@@ -28,6 +28,5 @@ public class Exercicio66 {
             IO.println("Soma dos números negativos lidos: " + somaNegativos);
         }
 
-
     }
 }
