@@ -1,53 +1,74 @@
 # Desafio Lógica em Java 🧩
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo%20%F0%9F%8E%89-brightgreen?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/Exerc%C3%ADcios-123%2F123-brightgreen?style=for-the-badge)
 
-Este repositório documenta minha jornada de **123 dias resolvendo exercícios de lógica em Java**, com o objetivo de treinar constância, disciplina e fortalecer fundamentos da programação.
+Este repositório documenta minha jornada resolvendo **123 exercícios de lógica em Java**, com o objetivo de treinar constância, disciplina e fortalecer fundamentos da programação.
 
 ## 🎯 Objetivo
-- Resolver **1 exercício por dia** durante 123 dias consecutivos.
-- Consolidar conceitos de lógica de programação e Java.
-- Criar um histórico público de evolução e aprendizado.
+
+- ✅ Resolver os **123 exercícios** do desafio.
+- ✅ Consolidar conceitos de lógica de programação e Java.
+- ✅ Criar um histórico público de evolução e aprendizado.
 
 ## 📚 Estrutura
+
 Os exercícios estão organizados em pacotes e classes numeradas:
+
 ```
 src/
 └── logica/
-    └── exercicios1a20/
-        ├── Exercicio01.java
-        ├── Exercicio02.java
+    ├── exercicios1a20/
+    │   ├── Exercicio01.java
+    │   └── ...
+    ├── exercicios21a40/
+    ├── exercicios41a60/
+    ├── exercicios61a80/
+    ├── exercicios81a100/
+    └── exercicios101a123/
+        ├── Exercicio101.java
         └── ...
+        └── Exercicio123.java
 ```
 
 Cada classe representa a solução de um exercício específico.
 
 ## 🚀 Como executar
+
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/seu-usuario/desafio-logica-java.git
+git clone https://github.com/seu-usuario/desafio-logica-java.git
 ```
 
 2. Compile e execute um exercício:
 ```bash
-   javac src/logica/exercicios1a20/Exercicio01.java
-   java logica.exercicios1a20.Exercicio01
+javac src/logica/exercicios1a20/Exercicio01.java
+java logica.exercicios1a20.Exercicio01
 ```
 
 ## 🔗 Inspiração
+
 Este projeto foi inspirado no repositório [desafio-logica-java](https://github.com/EraldoCunha/desafio-logica-java)
 criado por Eraldo Cunha, adaptado aqui para minha própria jornada de aprendizado.
 
 ## 📅 Progresso
-- [x] Dia 1 – Exercício 01
-- [X] Dia 2 – Exercício 02
-- [X] Dia 3 – Exercício 03
-- [ ] ...
-- [ ] Dia 123 – Exercício Final
+
+**123/123 exercícios concluídos** ✅
+
+| Bloco | Exercícios | Status |
+|-------|-----------|--------|
+| Bloco 1 | 01 – 20 | ✅ Concluído |
+| Bloco 2 | 21 – 40 | ✅ Concluído |
+| Bloco 3 | 41 – 60 | ✅ Concluído |
+| Bloco 4 | 61 – 80 | ✅ Concluído |
+| Bloco 5 | 81 – 100 | ✅ Concluído |
+| Bloco 6 | 101 – 123 | ✅ Concluído |
 
 ## 💡 Motivação
-A proposta é simples: **constância vence motivação**. Ao resolver um exercício por dia, mesmo que pequeno, o hábito se fortalece e o aprendizado se acumula. Este desafio é uma forma de provar para mim mesmo que disciplina diária gera resultados duradouros.
+
+A proposta era simples: resolver um exercício por dia. O ritmo nem sempre saiu como planejado, mas todos os 123 exercícios foram concluídos. No fim, o que ficou foi o aprendizado.
 
 ## 📌 Observação
+
 Este repositório é voltado para estudo e prática. As soluções podem variar em estilo e complexidade, refletindo meu processo de aprendizado contínuo.
